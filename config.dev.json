@@ -1,0 +1,13 @@
+{
+  "DBUser": "",
+  "DBPassword": "",
+  "DBHost": "",
+  "DBPort": "",
+  "DBName": "",
+  "LogFile": "",
+  "RequestLimit": 10,
+  "MaxRLimitToken": 20,
+  "JwtKey": "",
+  "Address": "",
+  "Port": ""
+}
